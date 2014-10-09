@@ -26,9 +26,15 @@ ShowPic1.0
 
 pics.asp?mode=[模式]&w=[寬]&h=[高]&src=[圖片路徑]
 
+---------------------------------
+
 範例：
 
-pics.asp?w=200&h=200&mode=resize&src=program/cmx/dir_pics/A1850.jpg
+pics.asp?w=200&h=200&mode=resize&src=A1850.jpg
+
+
+以上參數會將 A1850.jpg 這張圖片，自動縮小為寬200高200的圖片直接顯示。
+------------------------------
 
 
 參數說明：
